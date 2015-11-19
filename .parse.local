@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Adocracy": {
+      "applicationId": "4pGaxe1vDOgj4Zw172Db2a9OzbhlB7Bk3mRpnOyR"
+    },
+    "_default": {
+      "link": "Adocracy"
+    }
+  }
+}
