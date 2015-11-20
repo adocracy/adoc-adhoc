@@ -316,8 +316,8 @@ input,
 button,
 select,
 textarea {
-  font-family: inherit;
-  font-size: inherit;
+  font-family: 'Carrois Gothic',sans serif;
+  font-size: 20px;
   line-height: inherit;
 }
 

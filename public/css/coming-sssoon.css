@@ -265,8 +265,8 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     border-color: #ED8D00;
 }
 .btn-danger.btn-fill:hover, .btn-danger.btn-fill:focus, .btn-danger.btn-fill:active, .btn-danger.btn-fill.active, .open .dropdown-toggle.btn-danger.btn-fill {
-    background-color: #EE2D20;
-    border-color: #EE2D20;
+    background-color: #1084FF; /*EE2D20;*/
+    border-color: #1084FF; /*EE2D20;*/
 }
 
 /*          End Buttons fill          */
@@ -315,7 +315,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 }
 .form-control + .form-control-feedback{
     border-radius: 6px;
-    font-size: 14px;
+    font-size: 18px;
     padding: 0 12px 0 0;
     position: absolute;
     right: 25px;
@@ -717,7 +717,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     font-weight: 300;
     position: relative;
     text-align: center;
-    text-shadow: 0 0 10px rgba(0, 0, 0, 0.33);
+    text-shadow: 0 0 10px rgba(5, 31, 60, 0.75);
     margin-top: 150px;
     z-index: 3;
 }
@@ -739,12 +739,11 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     min-height: 140px;
 }
 .main .motto, .main .subscribe .info-text{
-    font-size: 28px;
+    font-size: 28px; /*28px*/
     color: #FFFFFF;
     text-shadow: 0 1px 4px rgba(0, 0, 0, 0.33);
     text-align: center;
     margin-top: 50px;
-    
 }
 .main .subscribe .info-text{
     font-size: 18px;
@@ -808,7 +807,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 }
 @media (min-width:991px){        
     .main .subscribe .form-group{
-        width: 300px;
+        width: 250px;
     }   
     .footer{
         position: fixed;
